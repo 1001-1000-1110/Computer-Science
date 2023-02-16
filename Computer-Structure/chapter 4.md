@@ -13,7 +13,7 @@
 > 		- 연산 결과에 대한 추가적인 상태 정보를 플래그라고 한다. 
 > 		- 플래그들은 플래그 레지스터라는 레지스터에 저장된다. 
 > 		- 연산 결과가 연산 결과를 담을 레지스터보다 큰 상황을 오버플러우라고 한다. <br>
-> 		![computer-structure flag](./img/computer-structure flag.jpeg) <br>
+>       ![computer-structure flag](/img/computer-structure flag.png){: width="60%"",height="40%""} <br>
 >     - **제어장치**는 제어신호를 내보내고, 명령어를 해석하는 부품이다. 
 >     - 제어신호는 컴퓨터 부품들을 관리하고 작동시키기 위한 일종의 전기 신호이다. 
 > 		    - **제어장치가 받아들이는 정보**
