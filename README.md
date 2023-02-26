@@ -10,11 +10,13 @@
   <tr>
     <td align="center"><a href="https://github.com/Heo-Jeong-Eun"><img src="https://avatars.githubusercontent.com/Heo-Jeong-Eun" width="150px;" alt="">
     <td align="center"><a href="https://github.com/pushedrumex"><img src="https://avatars.githubusercontent.com/pushedrumex" width="150px;" alt="">
+    <td align="center"><a href="https://github.com/hoiae"><img src="https://avatars.githubusercontent.com/hoiae" width="150px;" alt="">
     </td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/Heo-Jeong-Eun"><b>Heo Jeong Eun</b></td>
     <td align="center"><a href="https://github.com/pushedrumex"><b>Kim Min Jung</b></td>
+    <td align="center"><a href="https://github.com/hoiae"><b>Choi Jae Hyuck</b></td>
   </tr>
 </table>
 
