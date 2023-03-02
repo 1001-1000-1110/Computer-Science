@@ -18,6 +18,11 @@
     <td align="center"><a href="https://github.com/pushedrumex"><b>Kim Min Jung</b></td>
     <td align="center"><a href="https://github.com/hoiae"><b>Choi Jae Hyuck</b></td>
   </tr>
+   <tr>
+    <td align="center"><strong>Jen</strong></td>
+    <td align="center"><strong>MJ</strong></td>
+    <td align="center"><strong>Hoiae</strong></td>
+  </tr>
 </table>
 
 <br>
@@ -32,16 +37,16 @@
 
 ### schedule && progress
 >  1. Select a topic through a meeting.
->  2. Study for 2-3 weeks and organize each chapter in the md file. (fork repo)
+>  2. Study for 2-3 weeks and organize each chapter in the md file.
 >  3. When one topic is over, we have an offline meeting and conduct a mock interview.
 >  4. Prepare a list of at least 5 questions for the mock interview.
 >  5. After the mock interview, organize the questions and answers and upload them to the original repo. 
 >  
 >  - 회의를 통해 주제를 선정합니다. <br>
->  - 2-3주 동안 각자 공부하고, md 파일에 각 챕터별로 정리합니다. (fork repo) <br>
+>  - 2-3주 동안 각자 공부하고, md 파일에 각 챕터별로 정리합니다. <br>
 >  - 한 주제가 끝나면 오프라인 미팅을 갖고, 모의 면접을 진행합니다. <br>
->  - 모의 면접을 위해 5개 이상 질문 리스트를 준비합니다. <br>
->  - 모의 면접이 끝나면 질문과 답변을 정리해 원본 repo에 업로드합니다. 
+>  - 모의 면접을 위해 3개 이상 질문 리스트를 준비합니다. <br>
+>  - 모의 면접이 끝나면 질문과 답변을 정리해 원본 repo main에 업로드합니다. 
   
 ### commit 
 > ```shell
@@ -49,7 +54,7 @@
 >  Body (option) : detailed commit (Use commonly used commit rules.)
 >
 >  ex) 
->  [OS] Add : CPU Scheduling and Algorithm
+>  [OS] CPU Scheduling and Algorithm
 >  
 >  Add : CPU Scheduling and Algorithm.md file 
 >  2023-02-15 
