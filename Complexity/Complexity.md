@@ -23,7 +23,7 @@
 >         - 최악의 경우를 고려해 대비하는 것이 바람직하기 때문에 가장 많이 사용된다.
 >         - **‘입력값의 변화와 연산을 실행할 때, 연산 횟수에 비해 시간이 얼마나 걸리는가 ?’**
 >         - **Big-O(빅-오) 표기법의 종류**
->             <img src = 'image/Complexity Chart.png' alt = 'Cross Validation' width='700' height='700'>
+>             <img src = 'image/Complexity Chart.png' alt = 'Complexity Chart' width='400' height='400'>
 >             
 >             Big-O complexity chart
 >             
@@ -43,7 +43,7 @@
 >                 - 입력값의 크기와 관계 없이 즉시 출력값을 얻어낼 수 있다.
 >                 - **stack의 push, pop**
 >                     
->                     ![O(1)](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4aeb9e83-cab4-403f-98cc-e9b2b8b69b7e/O1.webp)
+>                     <img src = 'image/O1.png' alt = 'O1' width='400' height='400'>
 >                     
 >                     O(1)
 >                     
@@ -63,7 +63,7 @@
 >                 - **선형 복잡도**라고 하며, **입력값이 증가함에 따라 시간 또한 같은 비율로 증가**한다.
 >                 - **이진 트리**
 >                     
->                     ![O(n)](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bc40123e-02be-4006-9396-0bbda8e469ab/On.webp)
+>                     <img src = 'image/On.png' alt = 'On' width='400' height='400'>
 >                     
 >                     O(n)
 >                     
@@ -82,7 +82,7 @@
 >                 - **로그 복잡도**라고 하며, **Big-O 표기법 중 O(1) 다음으로 빠른 시간 복잡도**를 가진다.
 >                 - **BST가 대표적인 O(log n) 알고리즘**이다.
 >                     
->                     ![O(log n)](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b884b2c4-5039-40c8-8580-d6748be31b6a/Olog-n.webp)
+>                     <img src = 'image/Ologn.png' alt = 'Ologn' width='400' height='400'>
 >                     
 >                     O(log n)
 >                     
@@ -90,7 +90,7 @@
 >                 - **2차 복잡도**라고 하며, **입력값이 증가함에 따라 시간이 n의 제곱수의 비율로 증가**한다.
 >                 - **이중 for문, Selection Sort, Bobble Sort, Insertion Sort**
 >                     
->                     ![O(n^2)](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/41b19805-3059-42fb-96f2-eae71631af2b/On2.webp)
+>                     <img src = 'image/On2.png' alt = 'On2' width='400' height='400'>
 >                     
 >                     O(n^2)
 >                     
@@ -109,7 +109,7 @@
 >             5. **O(2n)**
 >                 - **기하급수적 복잡도**라고 하며, **Big-O 표기법 중 가장 느린 시간 복잡도**를 가진다.
 >                     
->                     ![O(2n)](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d43ae222-7313-42c2-9e81-ffa424bf0f45/O2n.webp)
+>                     <img src = 'image/O2n.png' alt = 'O2n' width='400' height='400'>
 >                     
 >                     O(2n)
 >                     
@@ -154,15 +154,15 @@
 > - **자료형 시간 복잡도**
 >     1. **list** 
 >         
->         ![list.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/38c18575-a2ab-447e-8258-e51ae737972b/list.png)
+>         <img src = 'image/List.png' alt = 'List' width='400' height='400'>
 >         
 >     2. **set** 
 >         
->         ![set.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5e3fbccd-556c-404c-9064-51eeb40cc1ae/set.png)
+>         <img src = 'image/Set.png' alt = 'Set' width='400' height='400'>
 >         
 >     3. **dictionary**
 >         
->         ![dict.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1e58b833-b831-40cd-be02-9ed074277146/dict.png)
+>         <img src = 'image/Dict.png' alt = 'Dict' width='400' height='400'>
 >         
 > - **정렬 알고리즘 시간 복잡도**
 >     
