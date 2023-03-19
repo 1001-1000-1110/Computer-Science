@@ -80,7 +80,7 @@
 >     - **종료 상태** / Terminated
 >         - **프로세스가 종료된 상태**
 > - **프로세스 상태 다이어그램**
->     <img src = 'image/Process Status Diagram.jpg' alt = 'Process Status Diagram' width='500' height='5g00'>
+>     <img src = 'image/Process Status Diagram.jpg' alt = 'Process Status Diagram' width='500' height='500'>
 > - **프로세스 계층 구조**
 >     - 프로세스는 **실행 도중 시스템 호출을 통해 다른 프로세스를 생성할 수 있다.**
 >     - **생성한 프로세스를 부모 프로세스, 생성된 프로세스를 자식 프로세스**라고 한다.
