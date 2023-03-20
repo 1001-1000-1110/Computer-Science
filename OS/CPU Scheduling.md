@@ -26,7 +26,7 @@
 >     - 대기 상태에 있는 프로세스도 마찬가지로 같은 장치를 요구한 프로세스들은 같은 대기 큐에서 기달니다.
 >     - 입출력이 완료되어 완료 인터럽트가 발생하면 운영체제는 대기 큐에서 작업이 완료된 PCB를 찾고, 이 PCB를 준비 상태로 변경한 뒤 대기 큐에서 제거한다. 해당 PCB는 준비 큐로 이동한다.
 >     - 프로세스 상태 다이어그램
->         <img src = 'Process Status Diagram-2.jpg' alt = 'Process Status Diagram-2' width='500' height='500'> 
+>         <img src = 'image/Process Status Diagram-2.jpg' alt = 'Process Status Diagram-2' width='500' height='300'>
 >         
 > - **선점형과 비선점형 스케줄링**
 >     - **선점형 스케줄링**
