@@ -31,7 +31,7 @@ Candiate Key는 Super Key가 만족해야하는 유일성 뿐만 아니라 최�
   
 ```sql
 # Inner Join
-    | table1.name | table2.name |
+| table1.name | table2.name |
 
 # Natural Join
 | name |
