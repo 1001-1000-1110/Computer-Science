@@ -63,7 +63,7 @@
 >                 - **선형 복잡도**라고 하며, **입력값이 증가함에 따라 시간 또한 같은 비율로 증가**한다.
 >                 - **이진 트리**
 >                     
->                     <img src = 'image/On.png' alt = 'On' width='400' height='400'>
+>                     <img src = 'image/On.png'>
 >                     
 >                     O(n)
 >                     
