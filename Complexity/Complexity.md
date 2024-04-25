@@ -63,7 +63,7 @@
 >                 - **선형 복잡도**라고 하며, **입력값이 증가함에 따라 시간 또한 같은 비율로 증가**한다.
 >                 - **이진 트리**
 >                     
->                     <img src = 'image/On.png' alt = 'On' width='400' height='400'>
+>                     <img src = 'image/On.png'>
 >                     
 >                     O(n)
 >                     
@@ -82,7 +82,7 @@
 >                 - **로그 복잡도**라고 하며, **Big-O 표기법 중 O(1) 다음으로 빠른 시간 복잡도**를 가진다.
 >                 - **BST가 대표적인 O(log n) 알고리즘**이다.
 >                     
->                     <img src = 'image/Ologn.png' alt = 'Ologn' width='400' height='400'>
+>                     <img src = 'image/Ologn.png'>
 >                     
 >                     O(log n)
 >                     
@@ -90,7 +90,7 @@
 >                 - **2차 복잡도**라고 하며, **입력값이 증가함에 따라 시간이 n의 제곱수의 비율로 증가**한다.
 >                 - **이중 for문, Selection Sort, Bobble Sort, Insertion Sort**
 >                     
->                     <img src = 'image/On2.png' alt = 'On2' width='400' height='400'>
+>                     <img src = 'image/On2.png'>
 >                     
 >                     O(n^2)
 >                     
@@ -109,7 +109,7 @@
 >             5. **O(2n)**
 >                 - **기하급수적 복잡도**라고 하며, **Big-O 표기법 중 가장 느린 시간 복잡도**를 가진다.
 >                     
->                     <img src = 'image/O2n.png' alt = 'O2n' width='400' height='400'>
+>                     <img src = 'image/O2n.png'>
 >                     
 >                     O(2n)
 >                     
@@ -154,15 +154,15 @@
 > - **자료형 시간 복잡도**
 >     - **list** 
 >         
->         <img src = 'image/List.png' alt = 'List' width='400' height='400'>
+>         <img src = 'image/List.png'>
 >         
 >     - **set** 
 >         
->         <img src = 'image/Set.png' alt = 'Set' width='400' height='400'>
+>         <img src = 'image/Set.png'>
 >         
 >     - **dictionary**
 >         
->         <img src = 'image/Dict.png' alt = 'Dict' width='400' height='400'>
+>         <img src = 'image/Dict.png'>
 >         
 > - **정렬 알고리즘 시간 복잡도**
 >     
